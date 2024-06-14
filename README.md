@@ -1,0 +1,3 @@
+Python Program for Password Strength Checker
+To use this program, run it, and enter a password when prompted. The program will provide feedback on the password's strength based on length, the presence of uppercase and lowercase letters, numbers, and special characters.
+Please note: This is a basic password strength checker and does not cover all possible security considerations. For example, it does not check against common passwords or dictionary words, or enforce more nuanced conditions like the use of non-sequential numbers and letters. Always consider the specific security needs of your application.
